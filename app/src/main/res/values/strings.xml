@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Credit Hub</string>
+    <string name="loginButton">login</string>                                                       // login button
+    <string name="userNameField">username</string>                                                  // username field
+    <string name="passWordField">(password)</string>                                                // password field
+    <string name="createAccountButton">don\'t have an account?</string>
+</resources>
